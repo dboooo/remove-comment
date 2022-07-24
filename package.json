@@ -1,0 +1,25 @@
+{
+  "name": "remove-comment",
+  "version": "1.0.0",
+  "description": "remove your file comment",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millker/remove-comment.git"
+  },
+  "keywords": [
+    "clear",
+    "remove",
+    "comment",
+    "notes"
+  ],
+  "author": "millker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millker/remove-comment/issues"
+  },
+  "homepage": "https://github.com/millker/remove-comment#readme"
+}
