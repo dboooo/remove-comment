@@ -1,5 +1,5 @@
 {
-  "name": "remove-comment",
+  "name": "clear-comment",
   "version": "1.0.0",
   "description": "remove your file comment",
   "main": "index.js",
